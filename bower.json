@@ -1,9 +1,9 @@
 {
-  "name": "domerang",
+  "name": "gulp-bootstrap-sass",
   "description": "",
   "main": "index.js",
   "authors": [
-    "Kastriona kastriona@gmail.com>"
+    "kastrionagjona kastriona@gmail.com>"
   ],
   "license": "ISC",
   "homepage": "",
